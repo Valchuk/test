@@ -1,6 +1,6 @@
 body.cl-alist {
     .breadcrumb {
-        margin-bottom: 5px;
+        margin-bottom: 10px;
         border-bottom: 1px solid #dddddd;
         border-radius: inherit;
         li{
